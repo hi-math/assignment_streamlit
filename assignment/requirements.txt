@@ -1,8 +1,0 @@
-streamlit
-wordcloud
-matplotlib
-seaborn
-pandas
-koreanize_matplotlib
-openai
-st-pages
